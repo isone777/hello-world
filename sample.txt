@@ -3,7 +3,10 @@ abbbbb issue1
 add issue2 content
 x
 y
+<<<<<<< HEAD
 z
 s
 s
 s2
+=======
+>>>>>>> 9921f4825cd1da38a793f75df3ead5982a0ebfc4
